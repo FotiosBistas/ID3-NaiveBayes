@@ -30,7 +30,7 @@ The algorithms run through the executables: execute.py and classify.py. In execu
 The if statement in executy inside the for loops is to determine what type of test we are going to do. We want to gather a lot of different metrics like testing the accuracy on training data while training the algorithms on training data etc. that's why it's done. 
 
 
-**How we approximate the logs: **
+## How we approximate the logs
 
 
 
@@ -95,7 +95,7 @@ For values between 0 and 1:
 
 
 
-**Below are different metrics like precision,accuracy etc. for each algorithm**
+## Below are different metrics like precision,accuracy etc. for each algorithm
 
 **Also we are doing different types of tests like accuracy on training data, accuracy on testing data etc.**
 
@@ -123,7 +123,7 @@ The below peaks are due to errors in the data:
 
 
 
-**the other team members were: @Tasos Toumazatos,@eGkritsis,@Georgios E. Syros**
+## the other team members were:[Georgios E. Syros](https://github.com/gsiros "Georgios E. Syros"), [Anastasios Toumazatos](https://github.com/toumazatos "Anastasios Toumazatos"),[Evgenios Gkritsis](https://github.com/eGkritsis "Evgenios Gkritsis")
 
 
 
